@@ -1,0 +1,13 @@
+#magicButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#magicButton:hover {
+  background-color: #2980b9;
+}
+```
